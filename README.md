@@ -95,7 +95,7 @@ volumes:
 
 ## Instruções do Docker Compose
 
-### Execute o container
+### Execute o contêiner
 
 No diretório onde está o arquivo docker-compose.yml, execute:
 
